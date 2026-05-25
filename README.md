@@ -17,5 +17,4 @@ qa-ecommerce-testing
 │   ├── TC-04-remove-product.png
 │   ├── TC-05-product-variation.png
 │   └── TC-06-discount-code.png
-│
-└── bug-reports
+└── 
