@@ -17,4 +17,6 @@ qa-ecommerce-testing
 │   ├── TC-04-remove-product.png
 │   ├── TC-05-product-variation.png
 │   └── TC-06-discount-code.png
-└── 
+│├── bug-reports
+│   ├── BUG-001-shakeology-cup.docx
+│   └── BUG-001-shakeology-cup.pdf
